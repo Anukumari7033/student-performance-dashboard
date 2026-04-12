@@ -47,10 +47,15 @@ Performance Level Comparison
 📌 Key Insights
 
 📈 Average score is stable (~70), indicating consistent overall performance
+
 📚 Study hours show a weak correlation with exam scores
+
 🏫 Attendance has a slight positive impact on performance
+
 📱 Social media usage has minimal effect on scores
+
 😓 Stress impacts performance differently across gender groups
+
 🏆 Clear performance gap between high performers and at-risk students
 
 🛠️ Tools & Techniques
@@ -63,8 +68,8 @@ Exploratory Data Analysis (EDA)
 Data Visualization
 
 📷 Dashboard Preview
-
-dashboard_preview.png
+## 📷 Dashboard Preview
+![Dashboard](images/dashboard_preview.png)
 
 
 
