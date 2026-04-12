@@ -69,7 +69,7 @@ Data Visualization
 
 📷 Dashboard Preview
 ## 📷 Dashboard Preview
-![Dashboard])(dashboard_project1_preview)
+![Dashboard])(dashboard_project1_preview.png)
 
 
 
