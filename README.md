@@ -69,8 +69,7 @@ Data Visualization
 
 📷 Dashboard Preview
 ## 📷 Dashboard Preview
-![Dashboard](<img width="1834" height="781" alt="dashboard_preview" src="https://github.com/user-attachments/assets/2a28489a-4778-40a4-8ad6-5ef24c6b1a53" />
-)
+![Dashboard])(dashboard_preview)
 
 
 
