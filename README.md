@@ -1,6 +1,8 @@
 📊 Student Performance Dashboard
 
+
 🚀 Excel | Data Analysis | Data Visualization
+
 
 🔍 Project Overview
 
@@ -9,10 +11,15 @@ This project presents an interactive Excel dashboard to analyze student performa
 The dashboard is built using a dataset of 10,001 students and focuses on uncovering trends related to study habits, attendance, stress levels, and social media usage.
 
 🎯 Objectives
+
 Analyze overall student performance
+
 Identify factors influencing exam scores
+
 Compare performance across different student groups
+
 Present insights using clear and effective visualizations
+
 
 📁 Dataset
 
@@ -28,6 +35,7 @@ Gender (Male, Female, Other)
 Performance Level (At Risk, Average, High Performer)
 
 📊 Dashboard Features
+
 KPI Cards (Average Score, Total Students)
 Exam Score Distribution
 Study Hours vs Exam Score (Scatter Plot)
@@ -37,6 +45,7 @@ Stress Level Analysis by Gender
 Performance Level Comparison
 
 📌 Key Insights
+
 📈 Average score is stable (~70), indicating consistent overall performance
 📚 Study hours show a weak correlation with exam scores
 🏫 Attendance has a slight positive impact on performance
