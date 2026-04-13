@@ -69,11 +69,8 @@ Data Visualization
 
 📷 Dashboard Preview
 ## 📷 Dashboard Preview
-![Student Performance Analysis Dashboard
-])(![Uploading Screenshot 2026-04-13 214845blue.png…]
+<img width="1838" height="812" alt="image" src="https://github.com/user-attachments/assets/89e44e6d-efc3-41c8-ad82-5c28ec94f3d3" />
 
-
-)
 
 
 
