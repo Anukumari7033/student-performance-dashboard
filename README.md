@@ -70,7 +70,8 @@ Data Visualization
 📷 Dashboard Preview
 ## 📷 Dashboard Preview
 ![Student Performance Analysis Dashboard
-])(<img width="1849" height="798" alt="dashboard_project1_preview" src="https://github.com/user-attachments/assets/9aaf1ccb-56da-4ccd-99f2-969bd5c0b9e4" />
+])(<img width="1820" height="785" alt="screenshot_dashboard" src="https://github.com/user-attachments/assets/cec838a6-6cc9-42d9-9d62-b08425fd75bd" />
+
 )
 
 
