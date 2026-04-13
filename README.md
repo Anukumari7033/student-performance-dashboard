@@ -1,4 +1,4 @@
-<img width="1830" height="816" alt="Screenshot 2026-04-13 214845blue" src="https://github.com/user-attachments/assets/e46369bd-82f9-4a5e-b428-a5508ad6e061" />📊 Student Performance Dashboard
+📊 Student Performance Dashboard
 
 
 🚀 Excel | Data Analysis | Data Visualization
@@ -69,7 +69,7 @@ Data Visualization
 
 📷 Dashboard Preview
 ## 📷 Dashboard Preview
-<img width="1827" height="806" alt="image" src="https://github.com/user-attachments/assets/d56ec1f7-d2e8-4c88-872c-ad30637c0185" />
+<img width="1830" height="816" alt="Screenshot 2026-04-13 214845blue" src="https://github.com/user-attachments/assets/e46369bd-82f9-4a5e-b428-a5508ad6e061" />
 
 
 
