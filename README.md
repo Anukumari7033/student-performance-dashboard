@@ -69,7 +69,8 @@ Data Visualization
 
 📷 Dashboard Preview
 ## 📷 Dashboard Preview
-<img width="1830" height="816" alt="Screenshot 2026-04-13 214845blue" src="https://github.com/user-attachments/assets/e46369bd-82f9-4a5e-b428-a5508ad6e061" />
+<img width="1139" height="694" alt="image" src="https://github.com/user-attachments/assets/d8fba2c1-5929-4e57-b5d8-816f4913b143" />
+
 
 
 
